@@ -1,0 +1,8 @@
+name,url
+大学生职业发展与就业指导,https://www.icourse163.org/course/FZU-1001743004
+思维导图的教学应用,https://www.icourse163.org/course/ICourese-1001967009
+“互联网+”时代教师个人知识管理,https://www.icourse163.org/course/ICourese-1001962014
+微课设计与制作,https://www.icourse163.org/course/ICourse-1001555013
+新生研讨课,https://www.icourse163.org/course/SCU-336004
+翻转课堂教学法,https://www.icourse163.org/course/PKU-21016
+运动与健康,https://www.icourse163.org/course/HUBU-1001939003
